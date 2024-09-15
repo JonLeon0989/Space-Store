@@ -1,0 +1,32 @@
+export const users = [
+    {
+      id: 1,
+      email: 'john@example.com',
+      name: 'John Doe',
+      password: 'password123',
+      address: '123 Main St',
+      phone: '555-555-5555',
+      country: 'USA',
+      city: 'New York',
+    },
+    {
+      id: 2,
+      email: 'trelo@example.com',
+      name: 'Juan vanegas',
+      password: 'admin',
+      address: 'carrera 5 # 12-34',
+      phone: '315-555-5586',
+      country: 'Colombia',
+      city: 'Bogota',
+    },
+    {
+        id: 3,
+        email: 'chibisuke@example.com',
+        name: 'Juan Pablo ',
+        password: 'juan2108',
+        address: 'Panoramastraße 1a, 10178 Berlin Mitte',
+        phone: '152 34567890',
+        country: 'Alemania',
+        city: 'Berlin',
+      },
+  ];
